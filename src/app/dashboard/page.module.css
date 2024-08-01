@@ -1,5 +1,13 @@
 .dashboard {
   margin: 2rem;
-  font-size: 2rem;
+}
+
+.title {
+  font-size: 32px;
   font-weight: bold;
+}
+
+.subtitle {
+  margin: 20px 0;
+  font-size: 20px;
 }
